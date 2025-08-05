@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Terms and Conditions - Tic Tac Toe Game</title>
 </head>
 <body>
     <h1>Terms and Conditions for Tic Tac Toe Game</h1>
