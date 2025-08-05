@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Terms and Conditions for Tic Tac Toe Game</h1>
-    <p><strong>Effective Date:</strong>05-08-2025</p>
+    <p><strong>Effective Date:</strong> 05-08-2025</p>
 
     <p>Welcome to <strong>Tic Tac Toe</strong> ("the App"), developed and operated by AlamX Devs ("we", "us", or "our").</p>
     <p>By downloading or using the App, you agree to be bound by the following Terms and Conditions. If you do not agree, please do not use the App.</p>
@@ -42,6 +42,6 @@
 
     <h2>8. Contact</h2>
     <p>If you have any questions about these Terms, you can contact us at:<br>
-    <strong>Email:</strong>sharukhalam356@gmail.com<br>
+    <strong>Email:</strong> sharukhalam356@gmail.com<br>
 </body>
 </html>
