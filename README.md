@@ -42,5 +42,3 @@
     <h2>8. Contact</h2>
     <p>If you have any questions about these Terms, you can contact us at:<br>
     <strong>Email:</strong> sharukhalam356@gmail.com<br>
-</body>
-</html>
